@@ -33,7 +33,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-6xl mx-auto mt-12 pt-8 border-t border-gray-800 text-center text-gray-600 text-xs">
-        © {new Date().getFullYear()} VF E-Shop. All rights reserved.
+        © 2025 VF E-Shop. All rights reserved.
       </div>
     </footer>
   );
